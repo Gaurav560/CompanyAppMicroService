@@ -1,4 +1,6 @@
-package com.telusko.company;
+package com.telusko.company.service;
+
+import com.telusko.company.model.Company;
 
 import java.util.List;
 

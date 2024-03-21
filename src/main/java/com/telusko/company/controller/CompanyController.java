@@ -1,5 +1,7 @@
-package com.telusko.company;
+package com.telusko.company.controller;
 
+import com.telusko.company.service.CompanyService;
+import com.telusko.company.model.Company;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

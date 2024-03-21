@@ -1,8 +1,8 @@
 package com.telusko.company.impl;
 
-import com.telusko.company.Company;
-import com.telusko.company.CompanyRepo;
-import com.telusko.company.CompanyService;
+import com.telusko.company.model.Company;
+import com.telusko.company.repo.CompanyRepo;
+import com.telusko.company.service.CompanyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
